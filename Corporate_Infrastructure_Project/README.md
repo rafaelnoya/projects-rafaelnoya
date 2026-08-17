@@ -1,0 +1,3 @@
+Computer Networks Project: Corporate Infrastructure in Packet Tracer
+
+Implementation of a complete corporate network topology, connecting departmental branches (Marketing, Sales, and Production) to a Headquarters through a simulated WAN infrastructure. The project utilizes VLANs and the Router-on-a-Stick technique for local network segmentation and routing, requiring the configuration of dynamic routing protocols (OSPF and BGP) to establish external connectivity. The architecture features the provisioning of essential services (DHCP, DNS, and an HTTP server) and focuses on high availability, demonstrating fault tolerance and automatic end-to-end route recalculation in the event of physical link failures.
